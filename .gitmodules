@@ -1,0 +1,6 @@
+[submodule "action-subscriber"]
+	path = action-subscriber
+	url = ./chapter-12/action-subscriber
+[submodule "active-publisher"]
+	path = active-publisher
+	url = ./chapter-12/active-publisher
